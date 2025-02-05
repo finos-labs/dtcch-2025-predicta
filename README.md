@@ -7,9 +7,29 @@
 SentiNova 
 
 ### Project Details
+Sentinova leverages Natural Language Processing (NLP) and Machine Learning (ML) to analyze market sentiment from various text sources (news articles, social media, financial reports). The goal is to detect trends, forecast market movements, and Predict market trends based on sentiment fluctuations. Provide visual insights & reports for decision-makers.
+
+**ML Model Overview:**
+This model is designed to predict the opening and closing prices of stocks using a combination of Convolutional Neural Networks (CNN), Long Short-Term Memory (LSTM) networks, Gated Recurrent Units (GRU), and an Attention mechanism. The model leverages historical stock prices along with sentiment analysis scores to enhance prediction accuracy. There are two models which are taken into consideration for comparison of the model's performance.
+
+The following are the models considered for comparison:
+
+Model 1:  Long Short-Term Memory (LSTM) networks + Gated Recurrent Units (GRU) followed by ensemble regressor (Random forest regressor)
+Model 2: Convolutional Neural Networks (CNN) + Long Short-Term Memory (LSTM) networks + Gated Recurrent Units (GRU) + Attention mechanism
 
 
 ### Team Information
+Predicta - Team from Citi Corp Services, Chennai, India
+1. Sandhya B S
+2. Pavithra S
+3. Krishna Prabha Sundarapandy
+4. Sivagama Sundari Manoharan
+5. Mahendran C
+6. Venkat Vinoth Chandan
+7. Gayathri Sivakumar
+8. Jayasree Tamilarasan
+9. Vignesh VV
+10. Arun Prasanna R
 
 
 ## Using DCO to sign your commits
